@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 2.5rem;
+  color: rgba(13, 209, 223, 0.856);
+  letter-spacing: 2px;
+  text-shadow: rgba(138, 205, 207, 0.705) 1px 0 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+}
+
+body {
+  margin: 1rem;
+  padding: 0.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
